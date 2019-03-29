@@ -1345,7 +1345,7 @@
     "018": "<:type_dark:553663995219804167>"
   }, 
   "weather": {
-    "000": "None", 
+    "000": "", 
     "001": "Boosted <:weather_clear:551970470484901896> \n", 
     "002": "Boosted <:weather_rain:551970632678506524> \n", 
     "003": "Boosted <:weather_partlycloudy:551970693919801356> \n", 
