@@ -326,13 +326,13 @@ def is_weather_boosted(pokemon_id, weather_id):
 
 def get_weather_emoji(weather_id):
     return {
-        1: u'<:weather_clear:551970470484901896>',
-        2: u'<:weather_rain:551970632678506524>',
-        3: u'<:weather_partlycloudy:551970693919801356>',
-        4: u'<:weather_cloudy:551970562847801355>',
-        5: u'<:weather_windy:551970828791578654>',
-        6: u'<:weather_snow:551970772881768448>',
-        7: u'<:weather_fog:551970892297666606>',
+        1: u'<:weather_clear:560974086084231168>',
+        2: u'<:weather_rain:560974085782241281>',
+        3: u'<:weather_partlycloudy:560974085384044579>',
+        4: u'<:weather_cloudy:560974085845286912>',
+        5: u'<:weather_windy:560974085920653327>',
+        6: u'<:weather_snow:560974086176505881>',
+        7: u'<:weather_fog:560974085828378644>',
     }.get(weather_id, '')
 
 
