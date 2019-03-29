@@ -44,7 +44,7 @@ class MonEvent(BaseEvent):
         self.weather_id = check_for_none(
             int, data.get('weather'), Unknown.TINY)
         self.boosted_weather_id = check_for_none(
-            int, data.get('boosted_weather')
+            int, data.get('weather')
             or data.get('weather'), 0)
 
         # Encounter Stats
