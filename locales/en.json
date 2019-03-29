@@ -1346,12 +1346,12 @@
   }, 
   "weather": {
     "000": "None", 
-    "001": "Clear", 
-    "002": "Rain", 
-    "003": "Partly Cloudy", 
-    "004": "Cloudy", 
-    "005": "Windy", 
-    "006": "Snow", 
-    "007": "Fog"
+    "001": "Boosted :weather_clear: \n", 
+    "002": "Boosted :weather_rain: \n", 
+    "003": "Boosted :weather_partlycloudy: \n", 
+    "004": "Boosted :weather_cloudy: \n", 
+    "005": "Boosted :weather_windy: \n", 
+    "006": "Boosted :weather_snow: \n", 
+    "007": "Boosted :weather_fog: \n"
   }
 }
