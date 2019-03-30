@@ -1346,12 +1346,12 @@
   }, 
   "weather": {
     "000": "", 
-    "001": " | Boosted\n", 
-    "002": " | Boosted\n", 
-    "003": " | Boosted\n", 
-    "004": " | Boosted\n", 
-    "005": " | Boosted\n", 
-    "006": " | Boosted\n", 
-    "007": " | Boosted\n"
+    "001": " | *Boosted*\n", 
+    "002": " | *Boosted*\n", 
+    "003": " | *Boosted*\n", 
+    "004": " | *Boosted*\n", 
+    "005": " | *Boosted*\n", 
+    "006": " | *Boosted*\n", 
+    "007": " | *Boosted*\n"
   }
 }
