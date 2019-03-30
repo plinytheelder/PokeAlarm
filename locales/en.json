@@ -1346,12 +1346,12 @@
   }, 
   "weather": {
     "000": "", 
-    "001": "<:weather_clear:551970470484901896>", 
-    "002": "<:weather_rain:560974085782241281>", 
-    "003": "<:weather_partlycloudy:560974085384044579>", 
-    "004": "<:weather_cloudy:560974085845286912>", 
-    "005": "<:weather_windy:560974085920653327>", 
-    "006": "<:weather_snow:560974086176505881>", 
-    "007": "<:weather_fog:560974085828378644>"
+    "001": " | Boosted\n", 
+    "002": " | Boosted\n", 
+    "003": " | Boosted\n", 
+    "004": " | Boosted\n", 
+    "005": " | Boosted\n", 
+    "006": " | Boosted\n", 
+    "007": " | Boosted\n"
   }
 }
